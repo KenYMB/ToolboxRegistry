@@ -10,7 +10,20 @@
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/CunninghamLab/TMSAnalysisToolBox"
+		"url": "https://github.com/nigelrogasch/TESA"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "fastICA",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/KenYMB/fastICA"
 	},
 	{
 		"flavor": "",
