@@ -1,0 +1,15 @@
+[
+	{
+		"flavor": "",
+		"hook": "SetupKyUtils",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ky_utils",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/KenYMB/ky_utils"
+	}
+]

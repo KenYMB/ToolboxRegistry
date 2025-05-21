@@ -1,0 +1,14 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"localHookTemplate": "",
+		"name": "eeglab",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/sccn/eeglab.git"
+	}
+]
