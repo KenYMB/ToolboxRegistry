@@ -30,7 +30,7 @@
 		"hook": "SetupKyUtils",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "ky_utils",
+		"name": "ky_ft_utils",
 		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
