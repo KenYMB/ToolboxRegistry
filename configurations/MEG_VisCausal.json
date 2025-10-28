@@ -27,7 +27,7 @@
 	},
 	{
 		"flavor": "",
-		"hook": "SetupKyUtils",
+		"hook": "Setup_ft_utilities",
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "ky_ft_utils",
