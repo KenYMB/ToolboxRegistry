@@ -10,7 +10,7 @@
 		"toolboxRoot": "",
 		"type": "local",
 		"update": "",
-		"url": "~/MATLAB/toolboxes/ECoG_resps"
+		"url": [fullfile(userpath,'/toolboxes/ECoG_resps')]
 	},
 	{
 		"flavor": "",

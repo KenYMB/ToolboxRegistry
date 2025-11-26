@@ -1,0 +1,40 @@
+[
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"localHookTemplate": "",
+		"name": "Fieldtrip2016",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": [fullfile(userpath,'/toolboxes/Fieldtrip2016')]
+	},
+	{
+		"flavor": "",
+		"hook": "SetupKyUtils",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ky_utils",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/KenYMB/ky_utils"
+	},
+	{
+		"flavor": "",
+		"hook": "Setup_ft_utilities",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ky_ft_utils",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/KenYMB/ft_utilities"
+	}
+]
